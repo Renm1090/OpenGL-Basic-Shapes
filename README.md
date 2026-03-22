@@ -34,8 +34,8 @@ Se utilizan buffers (VAO, VBO, EBO) y shaders en GLSL para dibujar primitivas co
 
 <h2>📸 Resultado</h2>
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=OpenGL+Output" width="600">
-</p>
+  <img src="https://drive.google.com/uc?export=view&id=1LG2vuwMRO-VNz54zWG3hwm_PEEkMUDA0" width="600">
+</p>>
 
 <h2>👤 Autor</h2>
 <p>Renm</p>
